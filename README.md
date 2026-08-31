@@ -54,7 +54,7 @@ O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) nº
 /database     → scripts e modelagem do banco de dados
 ```
 
-> Ajuste esta estrutura conforme a organização real do repositório assim que o desenvolvimento começar.
+> A estrutura será ajustada conforme a organização real do repositório, assim que o desenvolvimento começar.
 
 ##  Como executar o projeto
 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> Este passo a passo é um modelo inicial — atualize com os comandos reais assim que a stack estiver definida e implementada.
+> Modelo inicial. Será atualizado com os comandos reais assim que a stack estiver definida e implementada.
 
 ##  Equipe
 
