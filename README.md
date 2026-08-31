@@ -1,6 +1,6 @@
 # Sistema de Gestão do Departamento de Desenvolvimento Econômico — Iracemápolis/SP
 
-Projeto Interdisciplinar (PI-IV) — Sistemas de Informação
+Projeto Interdisciplinar (PI-IV) — Sistemas de Informação - Fundação Hermínio Ometto (FHO)
 
 ## Sobre o projeto
 
@@ -86,7 +86,7 @@ python main.py
 | Giovana Jacobucci | Engenheira de IA e Dados |
 | Kael Vicente Dipres | Scrum Master |
 | Kaio Bueno de Camargo | Desenvolvedor Back-end (IA)/ QA |
-| Sofia Camargo Nunes | Product Owner & Arquiteta de Software |
+| Sofia Camargo Nunes | Product Owner e Arquiteta de Software |
 | Virna Karina do Amaral | Desenvolvedora Front-end |
 
 ##  Documentação
