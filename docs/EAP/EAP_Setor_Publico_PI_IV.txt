@@ -1,0 +1,79 @@
+EAP/WBS do Sistema de Gestão do Departamento de Desenvolvimento Econômico de Iracemápolis (SP)
+
+Giovana Jacobucci RA:116445 - engenheiro de IA e Dados
+Kael Vicente Dipres RA:116349 -  QA / Scrum Master
+Kaio Eduardo BUeno de Camargo RA: 117143 - Desenvolvedor Back-end (IA)
+Sofia Camargo Nunes RA:116622 - Arquiteto de Software & DBA / Product Owner & Business Analyst
+Virna Karina Amaral Pereira RA:117702 Desenvolvedor Front-end & UX
+
+1. SISTEMA
+│
+├── 1.1 Autenticação, Usuários e Controle de Acesso
+│   ├── 1.1.1 Modelagem de usuários
+│   ├── 1.1.2 Autenticação
+│   ├── 1.1.3 Controle de acesso
+│   ├── 1.1.4 Recuperação com 2FA
+│   └── 1.1.5 Testes
+│
+├── 1.2 Indicadores e Dashboard
+│   ├── 1.2.1 Modelagem
+│   ├── 1.2.2 Cadastro e edição
+│   ├── 1.2.3 Registro de valores
+│   ├── 1.2.4 Gráficos
+│   ├── 1.2.5 Filtros
+│   ├── 1.2.6 Dashboard
+│   ├── 1.2.7 Relatórios
+│   └── 1.2.8 Testes
+│
+├── 1.3 Gestão de Projetos e Tarefas
+│   ├── 1.3.1 Modelagem de projetos
+│   ├── 1.3.2 Cadastro/edição de projetos
+│   ├── 1.3.3 Consulta de projetos
+│   ├── 1.3.4 Modelagem de tarefas
+│   ├── 1.3.5 Cadastro/edição de tarefas
+│   ├── 1.3.6 Associação projeto-tarefa
+│   ├── 1.3.7 Conclusão de tarefas
+│   ├── 1.3.8 Cálculo de percentual
+│   ├── 1.3.9 Status
+│   ├── 1.3.10 Controle por setor
+│   └── 1.3.11 Testes
+│
+├── 2.0 Cruzamento de Dados
+│   ├── 2.0.1 Modelagem de empresas
+│   ├── 2.0.2 Cadastro por CNPJ
+│   ├── 2.0.3 Validação CNPJ
+│   ├── 2.0.4 Histórico de atendimentos
+│   ├── 2.0.5 Associação ao CNPJ
+│   ├── 2.0.6 Cruzamento entre setores
+│   ├── 2.0.7 Busca semântica
+│   ├── 2.0.8 Sugestão de correspondência
+│   ├── 2.0.9 Confirmação manual
+│   ├── 2.0.10 Relatório de impacto
+│   ├── 2.0.11 Dashboard consolidado
+│   ├── 2.0.12 Controle de acesso
+│   ├── 2.0.13 Confidencialidade PROCON
+│   └── 2.0.14 Testes
+│
+├── 3.0 Assistente de Consulta com IA
+│   ├── 3.0.1 Ambiente de IA
+│   ├── 3.0.2 LlamaIndex
+│   ├── 3.0.3 LLM
+│   ├── 3.0.4 Preparação dos dados
+│   ├── 3.0.5 RAG
+│   ├── 3.0.6 Integração com sistema
+│   ├── 3.0.7 Consultas em linguagem natural
+│   ├── 3.0.8 Interface de chat
+│   ├── 3.0.9 Indicação das fontes
+│   ├── 3.0.10 Controle de acesso
+│   ├── 3.0.11 Validação das respostas
+│   └── 3.0.12 Testes
+│
+└── 4.0 Documentação Técnica
+    ├── 4.0.1 Levantamento dos requisitos
+    ├── 4.0.2 Especificação dos requisitos
+    ├── 4.0.3 User Stories
+    ├── 4.0.4 BPMN
+    ├── 4.0.5 TAP
+    ├── 4.0.6 Atualização da documentação
+    ├── 4.0.7 Rastreabilidade
+    └── 4.0.8 Revisão final
